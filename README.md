@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @QasimAli00000y
-- 👀 I’m interested in Coding\sybersecurity
-- 🌱 I’m currently learning in 11 class
-- 💞️ I’m looking to collaborate on coding from basics
-- 📫 You can reach me through ma email qa3628247@gmail.com
+Hey, I'm Ali
 
-<!---
-QasimAli00000y/QasimAli00000y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about Android development, problem-solving, and building apps that actually help people.
+
+──────────────────────────────────
+
+About Me
+• BSCS – 7th Semester  
+• Learning Android Development & Dart  
+• Exploring Flutter  
+• Interested in accessibility tech & practical app ideas  
+• Always improving my OOP and development fundamentals  
+
+──────────────────────────────────
+
+What I'm Working On
+• Android apps using Dart  
+• Strengthening my development basics for future internships  
+
+──────────────────────────────────
+
+Looking to Collaborate On
+• Beginner-friendly to intermediate coding projects  
+• Android + Dart practice projects  
+• Anything that helps me learn and helps others at the same time  
+
+──────────────────────────────────
+
+Contact
+• Email: qasim.munshiii@gmail.com
+• GitHub: https://github.com/QasimAli00000y
+
+──────────────────────────────────
+
+“Keep going. You’re closer than you think.”
